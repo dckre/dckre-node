@@ -1,0 +1,25 @@
+{
+  "name": "dckre-node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.dckre",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dckre/dckre-node.git"
+  },
+  "keywords": [
+    "dckre",
+    "node",
+    "nodejs",
+    "iojs"
+  ],
+  "author": "Maik Hummel <m@ikhummel.com> (https://beevelop.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dckre/dckre-node/issues"
+  },
+  "homepage": "https://github.com/dckre/dckre-node#readme"
+}
